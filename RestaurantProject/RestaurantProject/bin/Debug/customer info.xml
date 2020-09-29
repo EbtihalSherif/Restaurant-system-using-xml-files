@@ -101,10 +101,26 @@
           <foodquantity>2</foodquantity>
         </item>
       </order>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+      </order>
     </orders>
-    <totalprice>13697.5</totalprice>
-    <discount>3272.5</discount>
-    <numoforders>11</numoforders>
+    <totalprice>14017.5</totalprice>
+    <discount>3352.5</discount>
+    <numoforders>13</numoforders>
   </customer>
   <customer>
     <phonenum>82555</phonenum>
@@ -551,5 +567,29 @@
     <totalprice>85</totalprice>
     <discount>0</discount>
     <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>1222</phonenum>
+    <orders>
+      <order>
+        <area>Address,Heliopolis</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>1</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,Heliopolis</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>240</totalprice>
+    <discount>0</discount>
+    <numoforders>2</numoforders>
   </customer>
 </table>

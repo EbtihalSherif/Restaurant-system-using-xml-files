@@ -656,6 +656,7 @@ namespace RestaurantProject
 
 
             Grd_Cart.Rows.Clear();
+            total = 0;
             lbl_Total.Text = "0";
             lbl_Finalprice.Text = "0";
 

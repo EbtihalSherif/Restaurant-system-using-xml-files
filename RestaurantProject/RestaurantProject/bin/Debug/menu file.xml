@@ -29,9 +29,9 @@ Light Belgian waffles covered with strawberries and whipped cream.
     <description>
 Belgian waffles covered with assorted fresh berries and whipped cream.
 </description>
-    <quantity>98</quantity>
+    <quantity>90</quantity>
     <image>berry belgain waffles.jpg</image>
-    <sold>2</sold>
+    <sold>10</sold>
   </food>
   <food>
     <id>4</id>
